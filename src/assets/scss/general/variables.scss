@@ -1,0 +1,15 @@
+// COLORS
+$black: #141414;
+$off-black: #40404a;
+$gray-light: #EEEFF1;
+
+// GLOBAL VARIABLES
+$primary-color: $black;
+$primary-color-dark: darken($primary-color, 10%);
+$secondary-color: $black;
+
+// texts colors
+$h1-color: $black;
+$highlight-text-color: $primary-color;
+$link-color: $off-black;
+$text-color: $gray-light;
